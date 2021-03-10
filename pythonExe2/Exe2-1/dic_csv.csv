@@ -1,0 +1,33 @@
+Order No,Name,Address1,Address2,City,Country,SKU,Price,Qty
+SO001,Mohit Patel,Address 0002,Address2 0001,Amritsar,America,STARCD173501,25,1
+SO001,Mohit Patel,Address 0002,Address2 0001,Amritsar,America,STARCD173502,30,2
+SO001,Mohit Patel,Address 0002,Address2 0001,Amritsar,America,STARCD173503,87,5
+SO001,Mohit Patel,Address 0002,Address2 0001,Amritsar,America,STARCD173504,45,4
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,MALTAF104511,45,7
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,MALTAF104512,94,1
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,MALTAF104513,97,2
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,STARCF182801,113,4
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,7PLUSF173202,114,5
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,STARCE172901,136,4
+SO003,Ketan Desai,Address 0011,Address2 0030,Sydney,Australia,STARCE172902,138,1
+SO004,Ankit Batra,Address 0005,Address2 0012,Hamburg,Spain,STARCD173501,88,6
+SO004,Ankit Batra,Address 0005,Address2 0012,Hamburg,Spain,MALTAF104511,95,4
+SO004,Ankit Batra,Address 0005,Address2 0012,Hamburg,Spain,ASTN173502,102,5
+SO004,Ankit Batra,Address 0005,Address2 0012,Hamburg,Spain,MSCE183104,105,7
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,7PLUSF173201,89,5
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,7PLUSF173201,90,6
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,7PLUSF173201,93,3
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,ASTN173502,100,4
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,7PLUSF174501,141,5
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,MALTAE150301,144,6
+SO002,Rajesh,Address 0006,Address2 0007,Dorrmoschel,Germany,MALTAE150301,146,2
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,7PLUSF173201,91,4
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,ASTN173502,99,6
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,MSCE183104,104,7
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,MSCE183105,106,5
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,MSCE183109,108,6
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,STARCE172901,134,2
+SO006,Mihir Tanna,Address 0008,Address2 0016,New York,United Kingdom,STARCE172902,137,7
+SO005,Prashant Singh,Address 0015,Address2 0015,Hamburg Solldorf,Italy,MALTAF104511,98,3
+SO010,Ajit Kapoor,Address 0029,Address2 0035,Peru,Italy,STARCF182801,112,2
+SO010,Ajit Kapoor,Address 0029,Address2 0035,Peru,Italy,7PLUSF173202,118,4
